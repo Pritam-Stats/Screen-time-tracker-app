@@ -4,6 +4,8 @@
 Track and visualize your daily **laptop** and **phone** screen time, compare trends over time, and gain insights into your usage patterns.
 Built with **Streamlit**, **SQLite**, and **Plotly**, this app offers an interactive and clean dashboard experience.
 
+- Live Link: [screen-time-tracker.app](https://screen-time-tracker.streamlit.app/)
+
 ---
 
 ## 🚀 Features
